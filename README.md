@@ -114,6 +114,7 @@ To build a clean, engaging, and interactive Power BI dashboard that:
 - Project Type: Personal / Portfolio Project
 
 ## Screenshots / Demos
+![Screenshot 2025-07-04 001228](https://github.com/user-attachments/assets/1ec472b6-121f-433f-b483-feb8f038e9be)
 
 
 
